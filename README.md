@@ -41,3 +41,10 @@ This is a digital electronics project that involves the use of servo motors to c
 - The transistors act as switches to turn on the fan and the buzzer.
 - The ultrasonic sensor detects the presence of objects near the wall and activates an alarm.
 - The temperature sensor monitors the temperature and turns on the fan if the temperature is too high.
+
+### Attached
+
+![Anexo 1](https://raw.githubusercontent.com/KevinQzG/Arduino/master/arduino.png)
+![Anexo 2](https://raw.githubusercontent.com/KevinQzG/Arduino/master/arduino2.png)
+![Anexo 3](https://raw.githubusercontent.com/KevinQzG/Arduino/master/arduino3.png)
+
