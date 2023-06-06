@@ -16,9 +16,9 @@ This is a digital electronics project that involves the use of servo motors to c
 
 ## Authors
 
-- KevinQzG: [GitHub Profile](https://github.com/KevinQzG)
-- jac123desu: [GitHub profile](https://github.com/jac123desu)
-- Epv02: [GitHub Profile](https://github.com/Epv02)
+- [Kevin Quiroz](https://github.com/KevinQzG)
+- [Julián Aguadelo](https://github.com/jac123desu)
+- [Emanuel Patiño](https://github.com/Epv02)
 
 ## Instructions
 
